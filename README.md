@@ -1,0 +1,3 @@
+# Amlogic `update` tool
+
+**WARNING**: This is NOT the original source code. It's an attempt to recreate it. Clearly someone forgot to strip debug symbols...
