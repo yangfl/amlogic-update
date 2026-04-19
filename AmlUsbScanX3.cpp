@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <memory.h>
 
-#include <usb.h>
+#include "usbcompat.h"
 
 #include "Amldbglog.h"
 #include "AmlUsbScanX3.h"

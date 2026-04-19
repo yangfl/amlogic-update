@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include <usb.h>
+#include "usbcompat.h"
 
 #include "checksum.h"
 #include "defs.h"

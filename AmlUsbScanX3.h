@@ -1,7 +1,7 @@
 #ifndef AML_USB_SCAN_X3_H
 #define AML_USB_SCAN_X3_H
 
-#include <usb.h>
+#include "usbcompat.h"
 
 
 #define AML_ID_VENDOR 0x1B8E

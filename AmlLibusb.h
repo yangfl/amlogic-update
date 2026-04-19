@@ -1,7 +1,7 @@
 #ifndef AML_LIB_USB_H
 #define AML_LIB_USB_H
 
-#include <usb.h>
+#include "usbcompat.h"
 
 
 #define AM_EP_IN 0x81
